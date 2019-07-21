@@ -1,0 +1,7 @@
+30.0	16.0	Athlete-01
+16.0	24.0	Athlete-05
+26.0	18.0	Athlete-02
+18.0	22.0	Athlete-04
+22.0	20.0	Athlete-03
+8.0	28.0	Athlete-06
+4.0	30.0	Athlete-07

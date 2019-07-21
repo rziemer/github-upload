@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestCombo", "BestCombo.csproj", "{15D52308-CA17-4EE5-8BDD-CA49F369B106}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15D52308-CA17-4EE5-8BDD-CA49F369B106}.Debug|x86.ActiveCfg = Debug|x86
+		{15D52308-CA17-4EE5-8BDD-CA49F369B106}.Debug|x86.Build.0 = Debug|x86
+		{15D52308-CA17-4EE5-8BDD-CA49F369B106}.Release|x86.ActiveCfg = Release|x86
+		{15D52308-CA17-4EE5-8BDD-CA49F369B106}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF61B45F-73F5-4AFD-8084-E4D9E8AB374B}
+	EndGlobalSection
+EndGlobal
